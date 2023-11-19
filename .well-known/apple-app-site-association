@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "PCD47D3H48.ph.sprout.hr.ios.dev",
+        "paths": ["*"]
+      },
+      {
+        "appID": "PCD47D3H48.ph.sprout.hr.ios",
+        "paths": ["*"]
+      },
+      {
+        "appID": "PCD47D3H48.ph.sprout.sprouthr.ios",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
